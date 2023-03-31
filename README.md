@@ -1,10 +1,7 @@
 ## A simple tar implementation
 
-Copyright (c) 2015 Jason Lee @ calccrypto at gmail.com
+Copyright (c) 2023 noah mugaya 
 
-Please see LICENSE file for license.
-
-[![Build Status](https://travis-ci.com/calccrypto/tar.svg?branch=master)](https://travis-ci.com/calccrypto/tar)
 
 This is only a simple implementation of the tar file format.
 It can tar files and extract them. That is about it. Although
